@@ -40,11 +40,6 @@ python main.py --phase test --log_dir log/PU-AT --checkpoint_path model_best.pth
 ```
 You will see the input and output results in the folder log/PU-AT.
 
-The training and testing mesh files can be downloaded from GoogleDrive.
-
-Evaluation code
-We provide the evaluation code. In order to use it, you need to install the CGAL library. Please refer this link and PU-Net to install this library. Then:
-
 
 Related Repositories
 The original code framework is rendered from "PUGAN_pytorch". It is developed by Haolin Liu at The Chinese University of HongKong.
